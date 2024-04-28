@@ -1,19 +1,20 @@
 body{
-    background-color: #7f7f7f;
-    
+  background-image: url('technology-background-with-digital-number-timer-concept-countdown_115579-957.jpg');
+  background-repeat:no-repeat ;
+  background-size: cover;
 }
 .stopwatch {
-    height: 213px;
-    text-align: center;
-    margin-top: 50px;
-    position: relative;
-    top: 150px;
-    border: solid;
-    width: 354px;
-    margin-left: 499px;
-    border-radius: 56px;
-    background: #2f2626;
-    color: pink;
+  height: 213px;
+  text-align: center;
+  margin-top: 120px;
+  position: relative;
+  top: 150px;
+  border: solid;
+  width: 354px;
+  margin-left: 890px;
+  border-radius: 56px;
+  background: #001d3f;
+  color: #1ea0f3;
 }
   
   .display {
@@ -26,14 +27,13 @@ body{
     padding: 10px 20px;
     margin: 0 10px;
     border-radius: 10%;
-    background-color: #000;
-    color: pink;
-    border: none;   
-
-  }
+    background-color: #3899e9;
+    color: #f8ffff;
+    border: none;
+}
   button:hover{
-    background-color: darkseagreen;
-    color: rgb(255, 0, 119);
+    background-color: rgb(93, 87, 185);
+    color: rgb(71, 160, 163);
 
   }
   
